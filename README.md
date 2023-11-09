@@ -53,11 +53,11 @@ As explained above the baseband filter is cutting off most of the noise making t
 For this part of the lab a table was constructed to find the SNR by first finding the signal voltage by disconnecting the noise from the adder. Then doing the opposite and disconnecting the signal from the adder to find just the noise voltage (RMS values were used). Afterwards the SNR was found as both a ratio and in dBs. Finally the signal+noise voltage was found along with an alternate SNR as both a ratio and in dBs using the signal+noise value.
 
 Table 1
-| Signal Voltage | 1.582 V |
-| Noise Voltage | 0.033 V |
-| SNR | 47.93 V |
-| SNR (dB) | 33.64 |
-| Signal + Noise Voltage| 1.583 |
-| Alternate SNR | 47.96 |
-| Alternate SNR (dB) | 31.619 |
+| Signal Voltage        | 1.582 V |
+| Noise Voltage         | 0.033 V |
+| SNR                   | 47.93 V |
+| SNR (dB)              | 33.64   |
+| Signal + Noise Voltage| 1.583   |
+| Alternate SNR         | 47.96   |
+| Alternate SNR (dB)    | 31.619  |
 
