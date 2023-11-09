@@ -54,11 +54,7 @@ For this part of the lab a table was constructed to find the SNR by first findin
 
 Table 1
 
-| Signal Voltage        | 1.582 V |
-| Noise Voltage         | 0.033 V |
-| SNR                   | 47.93 V |
-| SNR (dB)              | 33.64   |
-| Signal + Noise Voltage| 1.583   |
-| Alternate SNR         | 47.96   |
-| Alternate SNR (dB)    | 31.619  |
+| Signal Voltage | Noise Voltage | SNR | SNR (dB) | Signal + Noise Voltage | Alternate SNR | Alternate SNR (dB) |
+| :--:| :--: | :--: | :--: | :--: | :--: | :--: |
+| 1.582 V | 0.033 V | 47.93 V | 33.64 | 1.583 | 47.96 | 31.619 |
 
