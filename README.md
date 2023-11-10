@@ -217,7 +217,11 @@ This is the block diagram that connects to our previous block diagram to finally
 
 ![image](https://github.com/blee0730/Digital-Comm-Lab-6/assets/130094173/8e341e2a-186e-40ca-a881-419508e5951d)
 
-This is the result of our block diagram with the bottom showing spikes which is the clock of the BER which is the interval the XOR gate checks for errors. A lot of the process for confirming whether the BER was working properly or not was skipped due to time constraints and a table was made with the data that was gathered.
+This is the result of our block diagram with the bottom showing spikes which is the clock of the BER which is the interval the XOR gate checks for errors. 
+
+![image](https://github.com/blee0730/Digital-Comm-Lab-6/assets/130094173/4245acb8-3b98-41cf-9ec7-3df50ca7a151)
+
+This shows the comparison between the original signal and the recovered signal using the BER. A lot of the process for confirming whether the BER was working properly or not was skipped due to time constraints and a table was made with the data that was gathered.
 
 Table 4
 
